@@ -1,0 +1,4 @@
+With this project at first I did something quite simple with the movement of the mouth and some circles and eyes at first which I didnt find too complicated as all I did was follow the template that was provided on moodle and also P5Js reference imaging as it provides me a lot of comofort and reference in order to utilise and aid me with the work.
+I used the references online in order to effectively use and make a floating or roatating trapezium and square so that I could simulate a floating trapezium.
+I don't know if this is as impressive or effective as some of the projects that my peers have made, as I'm not rlly the most effective with code or anything at all I Hope that my other projects are better or more effective then these ones.
+I hope that I will become more effective and comfortable within the code and the programming.

@@ -1,28 +1,17 @@
 let i=0;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(100, 100, WEBGL);
+
+  describe('A white triangle spins around on a gray canvas.');
 }
 
 function draw() {
-  background(220);
- fill(255,0,0);
+  background(200);
 
-  // Eyes
-  fill(255,0,0)
-  circle(50,50,50)
-  circle(200,50,50)
+  // Rotate around the y-axis.
+  rotateY(frameCount * 0.01);
 
-  // Mouth
-  fill(0,255,0,255);
-  ellipse(150,150,i,40);
-
-  //quad
- quad(50, 62,i, 86, i,50, i,50,38,i, 14, 50);
-
- //quad
-  quad(20, 50, i,80, i,30, i,80, 70,i, 20, 70);
-
-  //Increment i
-  i=i+1;
+  // Draw the triangle.
+  triangle(-20, 25, 8, -30, 36, 25);
 }
