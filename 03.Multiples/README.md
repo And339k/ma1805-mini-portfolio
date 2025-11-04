@@ -1,0 +1,4 @@
+This one is pretty simple I just created a bunch of random words its remarkable more simple I was just playing around with a bunch of random words that don't really mean anything to me or are anything. I was struggling to create bunches of more complicated and comlex codes and ideas That I possibly should. Plus I dont think it is worth and gonna be marked a lot by a lot of marks and be graded quite high.
+Possibly it could change within the near future perhaps even improve on and develop it too
+I struggled for a bit too find out how to randomise the text at first then I was able to find out and do so, therefore I was able to go out and look at the video in order to better develop refine my skills 
+All and all my stuff seems to be pretty basic I do struggle with the code and all I do is follow guide lines and basic procedures Im not gonna lie

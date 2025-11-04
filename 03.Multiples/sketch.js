@@ -3,7 +3,7 @@ let word = theText[0];
 let i=0;
 
 function setup() {
-createCanvas(400, 400);
+createCanvas(1000, 1000);
 frameRate(5);
 }
 
@@ -12,7 +12,7 @@ function draw() {
 
   // The text display
   textSize(50);
-  text(word,random(400),height/2);
+  text(word,random(1000),height/2);
 
   //change the value of word 
   word=theText[i];
