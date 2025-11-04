@@ -1,15 +1,16 @@
-let.img;
+let img;
 
+// Load the image.
 function preload() {
-  img = loadImage('Aztro.jpg');
+  img = loadImage('photo.jpg');
 }
 
 function setup() {
-  createCanvas(400, 400);
-}
+  createCanvas(1000, 1000);
 
-function draw() {
-  background(220);
+  background(50);
+
   // Draw the image.
   image(img, 0, 0);
+
 }
