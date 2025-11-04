@@ -8,6 +8,6 @@ https://and339k.github.io/ma1805-mini-portfolio/
 
 [02.Movement.](02.Movement/index.html)
 
-[03.Multiples.](03.Movement/index.html)
+[03.Multiples.](03.Multiples/index.html)
 
 [04.Media](04.Media/index.html)
